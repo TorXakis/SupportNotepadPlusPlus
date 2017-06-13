@@ -26,7 +26,7 @@ Click on OK on the "Import successful." pop-up window.
 
 In Notepad++ choose Language > Define Your Language...
 
-See section Installation above for a screenshot.
+See [section Installation above](README.md#Installation) for a screenshot.
 
 In User Defined Language window at "User language :" select TorXakis
 
